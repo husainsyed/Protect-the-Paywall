@@ -51,5 +51,5 @@ To demonstrate how the script works, I am pasting the code in Google Chrome cons
 
 A potential solution to this problem can be achieved by embedding the paywall in the source code of the article. Instead of dynamically placing the paywall on the articles as an overlay to block the content, site engineers can put in place such a system that modifies the actual source code of the page upon checking the subscription of the user.
 
-## What's Next?
+## What's next?
 I have notified the site engineers of the listed websites about this potential bug. They will hopefully take an action to fix the issue.
