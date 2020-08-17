@@ -18,6 +18,6 @@
   
   //document.write() function resolves the issue
   //For other sites, we do not need to use this line
-  document.write(http.response)  
+  //document.write(http.response)  
 
 })();
