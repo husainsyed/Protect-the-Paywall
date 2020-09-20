@@ -18,10 +18,14 @@ The script is tested to work on the following newspaper sites:
 * The Economist
 * The New York Times
 * Scientific American
+* San Diego Tribune
+* Bloomberg
+* Harvard Business Review
+* ...and many more.
 
 ## The script in action
 
-To demonstrate how the script works, I am pasting the code in Google Chrome console on the listed websites.
+To demonstrate how the script works, I am pasting the code in Google Chrome console on few of the listed websites.
 
 - ### Los Angeles Times:
 
